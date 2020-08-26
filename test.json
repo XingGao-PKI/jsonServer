@@ -1,0 +1,629 @@
+[
+  {
+    "containerId": "1239",
+    "barcode": "110",
+    "name": "EtOAc",
+    "supplier": "Aldrich",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 500,
+      "unit": "ml"
+    },
+    "quantityAvailable": {
+      "value": 500,
+      "unit": "ml"
+    },
+    "dateCreated": "2002-02-25T13:58:13",
+    "containerType": "bottle",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 99.99,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 2003,
+      "molId": 989,
+      "cas": "75-09-2",
+      "acxId": null,
+      "substanceName": "Ethyl acetate",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAEAAAAENoZW1EcmF3IDcuMC4x\r\nCAATAAAAVW50aXRsZWQgRG9jdW1lbnQAAzIACAD///////8AAAAAAAD//wAAAAD/\r\n////AAAAAP//AAAAAP////8AAAAA/////wAA//8BCQgAAMBXAACAeQACCQgAAACW\r\nAAAA0gACCBAAAAAAAAAAAAAAAAAAAAAAADoEAQABOwQBAAA8BAEAAAwGAQABDQYB\r\nAAAGBwIAAAAHBwIAAQADCAQAAAB4AAUIBAAAmhUABggEAAAABAAHCAQAAAABAAgI\r\nBAAAAAIACQgEAACzAgAMCAEAAA0IAAAjCAEABQQIAgB4AAoICAADAGAAtAADAAsI\r\nCAAEAAAA8AADAAAIeAAAAwAAAtAC0AAAAAAWwiZU/2n/hhdRJuYDZQaQA/wAAgAA\r\nAtAC0AAAAAAWwiZUAAEAZABkAAAAAQABAQEAAQABJw8AAQABAAAAAAAAAAAAAAAA\r\nAAIAGQGQAAAAAABgAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAEAhAAB5wsAIC0\r\nKQDrQVkAzM12AAABJAAAAAIAAwDkBAUAQXJpYWwEAOQEDwBUaW1lcyBOZXcgUm9t\r\nYW4BgA4AAAAEAhAAAAAAAAAAAAAAAGQCAADwAw8IAgABABAIAgABABYIBAAAACQA\r\nGAgEAAAAJAADgAMAAAAEAhAAB5wsAIC0KQDrQVkAzM12AASAAgAAAAoAAgABAAAC\r\nCAAAAEUAAMA/ADcEAQAAAAAEgAQAAAAKAAIAAwAAAggAbiIwAERXRQAGgAAAAAAA\r\nBw0AAQAAAAMAYAC0AAMATwACCADUqDMARNNBAAQCEAAHnCwARNNBAG7CMwBE00gA\r\nIwgBAAAAADcEAQABAgQCAAgAKwQCAAAAAAAFgAUAAAAKAAIABAAABgIAAgAEBgQA\r\nAgAAAAUGBAAEAAAACgYBAAAAAASABgAAAAoAAgAFAAACCAAAAEUAAFpVAAaAAAAA\r\nAAAHDQABAAAAAwBgALQAAwBPBQcBAAQAAggAZoZIAADWUQAEAhAAmXlBAADWUQAA\r\noEgAANZYACMIAQAAAAA3BAEAAQIEAgAIACsEAgAAAAAABYAHAAAACgACAAYABAYE\r\nAAIAAAAFBgQABgAAAAoGAQABAAAEgAgAAAAKAAIABwAAAggAu2g/AG7iKgA3BAEA\r\nAQAABYAJAAAACgACAAgABAYEAAIAAAAFBgQACAAAAAoGAQABAAAEgAoAAAAKAAIA\r\nCQAAAggAHrVXAAAnYAA3BAEAAQAABYALAAAACgACAAoABAYEAAYAAAAFBgQACgAA\r\nAAoGAQABAAAEgAwAAAAKAAIACwAAAggAHrVXAADBdQA3BAEAAQAABYANAAAACgAC\r\nAAwABAYEAAoAAAAFBgQADAAAAAoGAQABAAAAAAAAAAA=\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1036,
+      "parentId": 1014,
+      "name": "Analytical Solvents",
+      "description": null,
+      "type": "Solvent Cabinet",
+      "barcode": "1036"
+    },
+    "id": "1239"
+  },
+  {
+    "containerId": "1238",
+    "barcode": "105",
+    "name": "Chloroform",
+    "supplier": "Fine Chemicals Corporation (PTY) Ltd.",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 5,
+      "unit": "gal"
+    },
+    "quantityAvailable": {
+      "value": 5,
+      "unit": "gal"
+    },
+    "dateCreated": "2002-02-25T13:43:40",
+    "containerType": "cylinder",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 99.9,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 2001,
+      "molId": 987,
+      "cas": "67-66-3",
+      "acxId": "X1000035-4",
+      "substanceName": "Chloroform",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAEAAAAENoZW1EcmF3IDcuMC4x\r\nCAATAAAAVW50aXRsZWQgRG9jdW1lbnQAAzIACAD///////8AAAAAAAD//wAAAAD/\r\n////AAAAAP//AAAAAP////8AAAAA/////wAA//8BCQgAAMBXAACAeQACCQgAAACW\r\nAAAA0gACCBAAAAAAAAAAAAAAAAAAAAAAADoEAQABOwQBAAA8BAEAAAwGAQABDQYB\r\nAAAGBwIAAAAHBwIAAQADCAQAAAB4AAUIBAAAmhUABggEAAAABAAHCAQAAAABAAgI\r\nBAAAAAIACQgEAACzAgAMCAEAAA0IAAAjCAEABQQIAgB4AAoICAADAGAAtAADAAsI\r\nCAAEAAAA8AADAAAIeAAAAwAAAtAC0AAAAAAWwiZU/2n/hhdRJuYDZQaQA/wAAgAA\r\nAtAC0AAAAAAWwiZUAAEAZABkAAAAAQABAQEAAQABJw8AAQABAAAAAAAAAAAAAAAA\r\nAAIAGQGQAAAAAABgAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAEAhAAAFMpAAC8\r\nPwAA4FAA5e1xAAABJAAAAAIAAwDkBAUAQXJpYWwEAOQEDwBUaW1lcyBOZXcgUm9t\r\nYW4BgA4AAAAEAhAAAAAAAAAAAAAAAGQCAADwAw8IAgABABAIAgABABYIBAAAACQA\r\nGAgEAAAAJAADgAMAAAAEAhAAAFMpAAC8PwAA4FAA5e1xAASAAgAAAAoAAgABAAAC\r\nCAAAQE0AAEBHAAaAAAAAAAAHDgABAAAAAwBgALQAAwBDbAEHAQD/BQcBAAMAAggA\r\nZsZQAAA8SAAEAhAAmblJAAC8PwAA4FAAADxIACMIAQD/AAA3BAEAAQIEAgARACsE\r\nAgAAAAAABIAEAAAACgACAAMAAAIIAABzQgAe9VkANwQBAAAAAAWABQAAAAoAAgAE\r\nAAQGBAACAAAABQYEAAQAAAAKBgEAAQAABIAGAAAACgACAAUAAAIIAMw/TQDlqWwA\r\nBoAAAAAAAAcOAAEAAAADAGAAtAADAENsBQcBAAEAAggAM8ZQAOVtaQAEAhAAZrlJ\r\nAOVtaQDM31AA5e1xACMIAQAAAAA3BAEAAQIEAgARACsEAgAAAAAABYAIAAAACgAC\r\nAAcABAYEAAQAAAAFBgQABgAAAAoGAQABAAAEgAkAAAAKAAIACAAAAggAZtksAB71\r\nWQAGgAAAAAAABw4AAQAAAAMAYAC0AAMAQ2wFBwEAAQACCADMXzAAHrlWAAQCEAAA\r\nUykAHrlWAGZ5MAAeOV8AIwgBAAAAADcEAQABAgQCABEAKwQCAAAAAAAFgAsAAAAK\r\nAAIACgAEBgQABAAAAAUGBAAJAAAACgYBAAEAAASADAAAAAoAAgALAAACCAAApjcA\r\nPapsAAaAAAAAAAAHDQABAAAAAwBgALQAAwBIAAIIAGYsOwA9bmkABAIQAJkfNAA9\r\nbmkAZiw7AD3ubwAjCAEAAAAANwQBAAECBAIAAQArBAIAAAAAAAWADQAAAAoAAgAM\r\nAAQGBAAEAAAABQYEAAwAAAAKBgEAAQAAAAAAAAAA\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1036,
+      "parentId": 1014,
+      "name": "Analytical Solvents",
+      "description": null,
+      "type": "Solvent Cabinet",
+      "barcode": "1036"
+    },
+    "id": "1238"
+  },
+  {
+    "containerId": "1237",
+    "barcode": "522",
+    "name": "1,6-Hexanediamine",
+    "supplier": "Chemfinder.com",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 50,
+      "unit": "g"
+    },
+    "quantityAvailable": {
+      "value": 50,
+      "unit": "g"
+    },
+    "dateCreated": "2002-03-12T11:43:29",
+    "containerType": "bottle",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 98,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 85,
+      "molId": 132,
+      "cas": "124-09-4",
+      "acxId": "X1000935-9",
+      "substanceName": "1,6-Hexanediamine",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAOQAAAENEWCBkcml2ZXIgMS42\r\nIFtmb3IgQ2hlbURyYXcgNitdIC8gSmFuIDEyIDE5OjAwOjU4IDIwMDIEAhAAAAA8\r\nAAAAPAC5/UoAA+XxAAEJCAAAAAAAAAAAAAIJCAAAAIYAAAAtAQUIBAAAAB4AAAMy\r\nAAgA////////AAAAAAAA//8AAAAAAAAAAP///////wAAAAD//wAAAAD///////8A\r\nAP//AYACAAAABAIQAAAAPAAAADwAuf1KAAPl8QADgAMAAAAEgAQAAAAAAggAuv1K\r\nAAAAPAACBAIABwA5BAMAAAAwBoAFAAAAAAcZAAIAAAADAGAAyAADAAIABQAgAMgA\r\nAwBOSDIAAAAABIAGAAAAAAIIAAAAPADI+1UAOQQDAAAAMQAABIAHAAAAAAIIALr9\r\nSgA6+G8AOQQDAAAAMgAABIAIAAAAAAIIAAAAPACd9IkAOQQDAAAAMwAABIAJAAAA\r\nAAIIALr9SgB08KMAOQQDAAAANAAABIAKAAAAAAIIAAAAPADX7L0AOQQDAAAANQAA\r\nBIALAAAAAAIIALr9SgA66dcAOQQDAAAANgAABIAMAAAAAAIIAAAAPAAD5fEAAgQC\r\nAAcAOQQDAAAANwaADQAAAAAHGQACAAAAAwBgAMgAAwACAAUAIADIAAMATkgyAAAA\r\nAAWADgAAAAQGBAAEAAAABQYEAAYAAAAAAAWADwAAAAQGBAAGAAAABQYEAAcAAAAA\r\nAAWAEAAAAAQGBAAHAAAABQYEAAgAAAAAAAWAEQAAAAQGBAAIAAAABQYEAAkAAAAA\r\nAAWAEgAAAAQGBAAJAAAABQYEAAoAAAAAAAWAEwAAAAQGBAAKAAAABQYEAAsAAAAA\r\nAAWAFAAAAAQGBAALAAAABQYEAAwAAAAAAAAAAAAAAA==\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1032,
+      "parentId": 1013,
+      "name": "Alpha Receiving",
+      "description": null,
+      "type": "Receiving",
+      "barcode": "1032"
+    },
+    "id": "1237"
+  },
+  {
+    "containerId": "1236",
+    "barcode": "342",
+    "name": "fluorobenzene",
+    "supplier": "Fluka Chemical Corp.",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 1,
+      "unit": "L"
+    },
+    "quantityAvailable": {
+      "value": 1,
+      "unit": "L"
+    },
+    "dateCreated": "2002-03-11T15:48:01",
+    "containerType": "can",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 99,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 447,
+      "molId": 449,
+      "cas": "462-06-6",
+      "acxId": "X1003808-9",
+      "substanceName": "Fluorobenzene",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAOQAAAENEWCBkcml2ZXIgMS42\r\nIFtmb3IgQ2hlbURyYXcgNitdIC8gSmFuIDEyIDE5OjAxOjMwIDIwMDIEAhAA//87\r\nAAAAPABU/m8A2RqWAAEJCAAAAAAAAAAAAAIJCAAAAKsAAADSAAUIBAAAAB4AAAMy\r\nAAgA////////AAAAAAAA//8AAAAAAAAAAP///////wAAAAD//wAAAAD///////8A\r\nAP//AYACAAAABAIQAP//OwAAADwAVP5vANkalgADgAMAAAAEgAQAAAAAAggAMf9V\r\nAAAAPAACBAIACQA5BAMAAAAwBoAFAAAAAAcNAAEAAAADAGAAyAADAEYAAAAABIAG\r\nAAAAAAIIADH/VQDeFFoAOQQDAAAAMQAABIAHAAAAAAIIAAAAPAC6DWkAOQQDAAAA\r\nMgAABIAIAAAAAAIIAFT+bwC6DWkAOQQDAAAAMwAABIAJAAAAAAIIAAAAPAAMIocA\r\nOQQDAAAANAAABIAKAAAAAAIIAFT+bwAMIocAOQQDAAAANQAABIALAAAAAAIIADH/\r\nVQDZGpYAOQQDAAAANgAABYAMAAAABAYEAAQAAAAFBgQABgAAAAAABYANAAAABAYE\r\nAAYAAAAFBgQABwAAAAAGAgACAAAABYAOAAAABAYEAAYAAAAFBgQACAAAAAAABYAP\r\nAAAABAYEAAcAAAAFBgQACQAAAAAABYAQAAAABAYEAAgAAAAFBgQACgAAAAAGAgAC\r\nAAAABYARAAAABAYEAAkAAAAFBgQACwAAAAAGAgACAAAABYASAAAABAYEAAoAAAAF\r\nBgQACwAAAAAAAAAAAAAA\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1032,
+      "parentId": 1013,
+      "name": "Alpha Receiving",
+      "description": null,
+      "type": "Receiving",
+      "barcode": "1032"
+    },
+    "id": "1236"
+  },
+  {
+    "containerId": "1235",
+    "barcode": "283",
+    "name": "HF",
+    "supplier": "BASF Chemical Intermediates",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 350,
+      "unit": "kg"
+    },
+    "quantityAvailable": {
+      "value": 250,
+      "unit": "kg"
+    },
+    "dateCreated": "2002-03-11T15:46:27",
+    "containerType": "drum",
+    "status": "Available",
+    "concentration": {
+      "value": 12,
+      "unit": "N"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 99.99,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 250,
+      "molId": 273,
+      "cas": null,
+      "acxId": "X1206198-4",
+      "substanceName": "HYDROFLUORIC ACID",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAOQAAAENEWCBkcml2ZXIgMS42\r\nIFtmb3IgQ2hlbURyYXcgNitdIC8gSmFuIDEyIDE5OjAxOjE0IDIwMDIEAhAAAAA8\r\nAAAAPAAAADwAAABaAAEJCAAAAAAAAAAAAAIJCAAAAHgAAACWAAUIBAAAAB4AAAMy\r\nAAgA////////AAAAAAAA//8AAAAAAAAAAP///////wAAAAD//wAAAAD///////8A\r\nAP//AYACAAAABAIQAAAAPAAAADwAAAA8AAAAWgADgAMAAAAEgAQAAAAAAggAAAA8\r\nAAAAPAACBAIAAQA5BAMAAAAwBoAFAAAAAAcNAAEAAAADAGAAyAADAEgAAAAABIAG\r\nAAAAAAIIAAAAPAAAAFoAAgQCAAkAOQQDAAAAMQaABwAAAAAHDQABAAAAAwBgAMgA\r\nAwBGAAAAAAWACAAAAAQGBAAEAAAABQYEAAYAAAAAAAAAAAAAAA==\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1032,
+      "parentId": 1013,
+      "name": "Alpha Receiving",
+      "description": null,
+      "type": "Receiving",
+      "barcode": "1032"
+    },
+    "id": "1235"
+  },
+  {
+    "containerId": "1234",
+    "barcode": null,
+    "name": "Bromofluoromethane",
+    "supplier": "Fine Chemicals Corporation (PTY) Ltd.",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 1,
+      "unit": "L"
+    },
+    "quantityAvailable": {
+      "value": 1,
+      "unit": "L"
+    },
+    "dateCreated": "2002-03-11T15:40:58",
+    "containerType": "bag",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 98.5,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 11,
+      "molId": 70,
+      "cas": "373-52-4",
+      "acxId": "X1000029-6",
+      "substanceName": "bromofluoromethane",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAOQAAAENEWCBkcml2ZXIgMS42\r\nIFtmb3IgQ2hlbURyYXcgNitdIC8gSmFuIDEyIDE5OjAwOjUxIDIwMDIEAhAAAAA8\r\nAAAAPAAVcW8APA1zAAEJCAAAAAAAAAAAAAIJCAAAAKsAAACvAAUIBAAAAB4AAAMy\r\nAAgA////////AAAAAAAA//8AAAAAAAAAAP///////wAAAAD//wAAAAD///////8A\r\nAP//AYACAAAABAIQAAAAPAAAADwAFXFvADwNcwADgAMAAAAEgAQAAAAAAggAAAA8\r\nABMsVgACBAIAIwA5BAMAAAAwBoAFAAAAAAcOAAEAAAADAGAAyAADAEJyAAAAAASA\r\nBgAAAAACCAA6yFkAEyxWADkEAwAAADEAAASABwAAAAACCADYH2kAAAA8AAIEAgAJ\r\nADkEAwAAADIGgAgAAAAABw0AAQAAAAMAYADIAAMARgAAAAAEgAkAAAAAAggAFXFv\r\nAOvtagACBAIAAQA5BAMAAAAzBoAKAAAAAAcNAAEAAAADAGAAyAADAEgAAAAABIAL\r\nAAAAAAIIAIrnYQA8DXMAAgQCAAEAOQQDAAAANAaADAAAAAAHDQABAAAAAwBgAMgA\r\nAwBIAAAAAAWADQAAAAQGBAAEAAAABQYEAAYAAAAAAAWADgAAAAQGBAAGAAAABQYE\r\nAAcAAAAAAAWADwAAAAQGBAAGAAAABQYEAAkAAAAAAAWAEAAAAAQGBAAGAAAABQYE\r\nAAsAAAAAAAAAAAAAAA==\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1032,
+      "parentId": 1013,
+      "name": "Alpha Receiving",
+      "description": null,
+      "type": "Receiving",
+      "barcode": "1032"
+    },
+    "id": "1234",
+    "externalLink": null,
+    "externalUrl": null
+  },
+  {
+    "containerId": "ST/1235",
+    "barcode": "22401",
+    "name": "Bromofluoromethane",
+    "supplier": "Fine Chemicals Corporation (PTY) Ltd.",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 1,
+      "unit": "L"
+    },
+    "quantityAvailable": {
+      "value": 1,
+      "unit": "L"
+    },
+    "dateCreated": "2002-03-11T15:40:58",
+    "containerType": "bag",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 98.5,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 11,
+      "molId": 70,
+      "cas": "373-52-4",
+      "acxId": "X1000029-6",
+      "substanceName": "bromofluoromethane",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAOQAAAENEWCBkcml2ZXIgMS42\r\nIFtmb3IgQ2hlbURyYXcgNitdIC8gSmFuIDEyIDE5OjAwOjUxIDIwMDIEAhAAAAA8\r\nAAAAPAAVcW8APA1zAAEJCAAAAAAAAAAAAAIJCAAAAKsAAACvAAUIBAAAAB4AAAMy\r\nAAgA////////AAAAAAAA//8AAAAAAAAAAP///////wAAAAD//wAAAAD///////8A\r\nAP//AYACAAAABAIQAAAAPAAAADwAFXFvADwNcwADgAMAAAAEgAQAAAAAAggAAAA8\r\nABMsVgACBAIAIwA5BAMAAAAwBoAFAAAAAAcOAAEAAAADAGAAyAADAEJyAAAAAASA\r\nBgAAAAACCAA6yFkAEyxWADkEAwAAADEAAASABwAAAAACCADYH2kAAAA8AAIEAgAJ\r\nADkEAwAAADIGgAgAAAAABw0AAQAAAAMAYADIAAMARgAAAAAEgAkAAAAAAggAFXFv\r\nAOvtagACBAIAAQA5BAMAAAAzBoAKAAAAAAcNAAEAAAADAGAAyAADAEgAAAAABIAL\r\nAAAAAAIIAIrnYQA8DXMAAgQCAAEAOQQDAAAANAaADAAAAAAHDQABAAAAAwBgAMgA\r\nAwBIAAAAAAWADQAAAAQGBAAEAAAABQYEAAYAAAAAAAWADgAAAAQGBAAGAAAABQYE\r\nAAcAAAAAAAWADwAAAAQGBAAGAAAABQYEAAkAAAAAAAWAEAAAAAQGBAAGAAAABQYE\r\nAAsAAAAAAAAAAAAAAA==\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1032,
+      "parentId": 1013,
+      "name": "Alpha Receiving",
+      "description": null,
+      "type": "Receiving",
+      "barcode": "1032"
+    },
+    "id": "ST/1235"
+  },
+  {
+    "containerId": "1242",
+    "barcode": "438",
+    "name": "Chloroform",
+    "supplier": "Boehringer Ingelheim KG",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 4,
+      "unit": "L"
+    },
+    "quantityAvailable": {
+      "value": 4,
+      "unit": "L"
+    },
+    "dateCreated": "2002-03-12T09:56:31",
+    "containerType": "bottle",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 99.5,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 2001,
+      "molId": 987,
+      "cas": "67-66-3",
+      "acxId": "X1000035-4",
+      "substanceName": "Chloroform",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAEAAAAENoZW1EcmF3IDcuMC4x\r\nCAATAAAAVW50aXRsZWQgRG9jdW1lbnQAAzIACAD///////8AAAAAAAD//wAAAAD/\r\n////AAAAAP//AAAAAP////8AAAAA/////wAA//8BCQgAAMBXAACAeQACCQgAAACW\r\nAAAA0gACCBAAAAAAAAAAAAAAAAAAAAAAADoEAQABOwQBAAA8BAEAAAwGAQABDQYB\r\nAAAGBwIAAAAHBwIAAQADCAQAAAB4AAUIBAAAmhUABggEAAAABAAHCAQAAAABAAgI\r\nBAAAAAIACQgEAACzAgAMCAEAAA0IAAAjCAEABQQIAgB4AAoICAADAGAAtAADAAsI\r\nCAAEAAAA8AADAAAIeAAAAwAAAtAC0AAAAAAWwiZU/2n/hhdRJuYDZQaQA/wAAgAA\r\nAtAC0AAAAAAWwiZUAAEAZABkAAAAAQABAQEAAQABJw8AAQABAAAAAAAAAAAAAAAA\r\nAAIAGQGQAAAAAABgAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAEAhAAAFMpAAC8\r\nPwAA4FAA5e1xAAABJAAAAAIAAwDkBAUAQXJpYWwEAOQEDwBUaW1lcyBOZXcgUm9t\r\nYW4BgA4AAAAEAhAAAAAAAAAAAAAAAGQCAADwAw8IAgABABAIAgABABYIBAAAACQA\r\nGAgEAAAAJAADgAMAAAAEAhAAAFMpAAC8PwAA4FAA5e1xAASAAgAAAAoAAgABAAAC\r\nCAAAQE0AAEBHAAaAAAAAAAAHDgABAAAAAwBgALQAAwBDbAEHAQD/BQcBAAMAAggA\r\nZsZQAAA8SAAEAhAAmblJAAC8PwAA4FAAADxIACMIAQD/AAA3BAEAAQIEAgARACsE\r\nAgAAAAAABIAEAAAACgACAAMAAAIIAABzQgAe9VkANwQBAAAAAAWABQAAAAoAAgAE\r\nAAQGBAACAAAABQYEAAQAAAAKBgEAAQAABIAGAAAACgACAAUAAAIIAMw/TQDlqWwA\r\nBoAAAAAAAAcOAAEAAAADAGAAtAADAENsBQcBAAEAAggAM8ZQAOVtaQAEAhAAZrlJ\r\nAOVtaQDM31AA5e1xACMIAQAAAAA3BAEAAQIEAgARACsEAgAAAAAABYAIAAAACgAC\r\nAAcABAYEAAQAAAAFBgQABgAAAAoGAQABAAAEgAkAAAAKAAIACAAAAggAZtksAB71\r\nWQAGgAAAAAAABw4AAQAAAAMAYAC0AAMAQ2wFBwEAAQACCADMXzAAHrlWAAQCEAAA\r\nUykAHrlWAGZ5MAAeOV8AIwgBAAAAADcEAQABAgQCABEAKwQCAAAAAAAFgAsAAAAK\r\nAAIACgAEBgQABAAAAAUGBAAJAAAACgYBAAEAAASADAAAAAoAAgALAAACCAAApjcA\r\nPapsAAaAAAAAAAAHDQABAAAAAwBgALQAAwBIAAIIAGYsOwA9bmkABAIQAJkfNAA9\r\nbmkAZiw7AD3ubwAjCAEAAAAANwQBAAECBAIAAQArBAIAAAAAAAWADQAAAAoAAgAM\r\nAAQGBAAEAAAABQYEAAwAAAAKBgEAAQAAAAAAAAAA\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1140,
+      "parentId": 1000,
+      "name": "Beta Receiving",
+      "description": null,
+      "type": "Receiving",
+      "barcode": "1140"
+    },
+    "id": "1242"
+  },
+  {
+    "containerId": "ST/1234",
+    "barcode": "22402",
+    "name": "Bromofluoromethane",
+    "supplier": "Fine Chemicals Corporation (PTY) Ltd.",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 1,
+      "unit": "L"
+    },
+    "quantityAvailable": {
+      "value": 1,
+      "unit": "L"
+    },
+    "dateCreated": "2002-03-11T15:40:58",
+    "containerType": "bag",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 98.5,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 11,
+      "molId": 70,
+      "cas": "373-52-4",
+      "acxId": "X1000029-6",
+      "substanceName": "bromofluoromethane",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAOQAAAENEWCBkcml2ZXIgMS42\r\nIFtmb3IgQ2hlbURyYXcgNitdIC8gSmFuIDEyIDE5OjAwOjUxIDIwMDIEAhAAAAA8\r\nAAAAPAAVcW8APA1zAAEJCAAAAAAAAAAAAAIJCAAAAKsAAACvAAUIBAAAAB4AAAMy\r\nAAgA////////AAAAAAAA//8AAAAAAAAAAP///////wAAAAD//wAAAAD///////8A\r\nAP//AYACAAAABAIQAAAAPAAAADwAFXFvADwNcwADgAMAAAAEgAQAAAAAAggAAAA8\r\nABMsVgACBAIAIwA5BAMAAAAwBoAFAAAAAAcOAAEAAAADAGAAyAADAEJyAAAAAASA\r\nBgAAAAACCAA6yFkAEyxWADkEAwAAADEAAASABwAAAAACCADYH2kAAAA8AAIEAgAJ\r\nADkEAwAAADIGgAgAAAAABw0AAQAAAAMAYADIAAMARgAAAAAEgAkAAAAAAggAFXFv\r\nAOvtagACBAIAAQA5BAMAAAAzBoAKAAAAAAcNAAEAAAADAGAAyAADAEgAAAAABIAL\r\nAAAAAAIIAIrnYQA8DXMAAgQCAAEAOQQDAAAANAaADAAAAAAHDQABAAAAAwBgAMgA\r\nAwBIAAAAAAWADQAAAAQGBAAEAAAABQYEAAYAAAAAAAWADgAAAAQGBAAGAAAABQYE\r\nAAcAAAAAAAWADwAAAAQGBAAGAAAABQYEAAkAAAAAAAWAEAAAAAQGBAAGAAAABQYE\r\nAAsAAAAAAAAAAAAAAA==\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1032,
+      "parentId": 1013,
+      "name": "Alpha Receiving",
+      "description": null,
+      "type": "Receiving",
+      "barcode": "1032"
+    },
+    "id": "ST/1234"
+  },
+  {
+    "containerId": "1241",
+    "barcode": "330",
+    "name": "fluorobenzene",
+    "supplier": "Fluka Chemical Corp.",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 1,
+      "unit": "L"
+    },
+    "quantityAvailable": {
+      "value": 1,
+      "unit": "L"
+    },
+    "dateCreated": "2002-03-11T15:48:01",
+    "containerType": "can",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 99,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 447,
+      "molId": 449,
+      "cas": "462-06-6",
+      "acxId": "X1003808-9",
+      "substanceName": "Fluorobenzene",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAOQAAAENEWCBkcml2ZXIgMS42\r\nIFtmb3IgQ2hlbURyYXcgNitdIC8gSmFuIDEyIDE5OjAxOjMwIDIwMDIEAhAA//87\r\nAAAAPABU/m8A2RqWAAEJCAAAAAAAAAAAAAIJCAAAAKsAAADSAAUIBAAAAB4AAAMy\r\nAAgA////////AAAAAAAA//8AAAAAAAAAAP///////wAAAAD//wAAAAD///////8A\r\nAP//AYACAAAABAIQAP//OwAAADwAVP5vANkalgADgAMAAAAEgAQAAAAAAggAMf9V\r\nAAAAPAACBAIACQA5BAMAAAAwBoAFAAAAAAcNAAEAAAADAGAAyAADAEYAAAAABIAG\r\nAAAAAAIIADH/VQDeFFoAOQQDAAAAMQAABIAHAAAAAAIIAAAAPAC6DWkAOQQDAAAA\r\nMgAABIAIAAAAAAIIAFT+bwC6DWkAOQQDAAAAMwAABIAJAAAAAAIIAAAAPAAMIocA\r\nOQQDAAAANAAABIAKAAAAAAIIAFT+bwAMIocAOQQDAAAANQAABIALAAAAAAIIADH/\r\nVQDZGpYAOQQDAAAANgAABYAMAAAABAYEAAQAAAAFBgQABgAAAAAABYANAAAABAYE\r\nAAYAAAAFBgQABwAAAAAGAgACAAAABYAOAAAABAYEAAYAAAAFBgQACAAAAAAABYAP\r\nAAAABAYEAAcAAAAFBgQACQAAAAAABYAQAAAABAYEAAgAAAAFBgQACgAAAAAGAgAC\r\nAAAABYARAAAABAYEAAkAAAAFBgQACwAAAAAGAgACAAAABYASAAAABAYEAAoAAAAF\r\nBgQACwAAAAAAAAAAAAAA\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 2,
+      "parentId": 0,
+      "name": "Disposed",
+      "description": "Disposed Location",
+      "type": "Bench",
+      "barcode": "2"
+    },
+    "id": "1241"
+  },
+  {
+    "containerId": "1240",
+    "barcode": "379",
+    "name": "difluorobenzene",
+    "supplier": "Fluorochem USA",
+    "currentUser": "INVADMIN",
+    "containerSize": {
+      "value": 500,
+      "unit": "g"
+    },
+    "quantityAvailable": {
+      "value": 499,
+      "unit": "g"
+    },
+    "dateCreated": "2002-03-11T15:51:59",
+    "containerType": "bottle",
+    "status": "Available",
+    "concentration": {
+      "value": null,
+      "unit": "mmol"
+    },
+    "weight": {
+      "value": null,
+      "unit": "mg"
+    },
+    "density": {
+      "value": null,
+      "unit": ""
+    },
+    "purity": {
+      "value": 99,
+      "unit": "%"
+    },
+    "compound": {
+      "compoundId": 665,
+      "molId": 658,
+      "cas": "540-36-3",
+      "acxId": "X1005811-4",
+      "substanceName": "1,4-DIFLUOROBENZENE",
+      "base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAOQAAAENEWCBkcml2ZXIgMS42\r\nIFtmb3IgQ2hlbURyYXcgNitdIC8gSmFuIDEyIDE5OjAxOjUwIDIwMDIEAhAAAAA8\r\nAAAAPADR/28AQi+0AAEJCAAAAAAAAAAAAAIJCAAAAKsAAADwAAUIBAAAAB4AAAMy\r\nAAgA////////AAAAAAAA//8AAAAAAAAAAP///////wAAAAD//wAAAAD///////8A\r\nAP//AYACAAAABAIQAAAAPAAAADwA0f9vAEIvtAADgAMAAAAEgAQAAAAAAggAov9V\r\nAAAAPAACBAIACQA5BAMAAAAwBoAFAAAAAAcNAAEAAAADAGAAyAADAEYAAAAABIAG\r\nAAAAAAIIAKL/VQAAAFoAOQQDAAAAMQAABIAHAAAAAAIIAAAAPAAj6WgAOQQDAAAA\r\nMgAABIAIAAAAAAIIANH/bwAj6WgAOQQDAAAAMwAABIAJAAAAAAIIAAAAPABbF4cA\r\nOQQDAAAANAAABIAKAAAAAAIIANH/bwBbF4cAOQQDAAAANQAABIALAAAAAAIIAKL/\r\nVQAAAJYAOQQDAAAANgAABIAMAAAAAAIIAKL/VQBDL7QAAgQCAAkAOQQDAAAANwaA\r\nDQAAAAAHDQABAAAAAwBgAMgAAwBGAAAAAAWADgAAAAQGBAAEAAAABQYEAAYAAAAA\r\nAAWADwAAAAQGBAAGAAAABQYEAAcAAAAABgIAAgAAAAWAEAAAAAQGBAAGAAAABQYE\r\nAAgAAAAAAAWAEQAAAAQGBAAHAAAABQYEAAkAAAAAAAWAEgAAAAQGBAAIAAAABQYE\r\nAAoAAAAABgIAAgAAAAWAEwAAAAQGBAAJAAAABQYEAAsAAAAABgIAAgAAAAWAFAAA\r\nAAQGBAAKAAAABQYEAAsAAAAAAAWAFQAAAAQGBAALAAAABQYEAAwAAAAAAAAAAAAA\r\nAA==\r\n",
+      "molecularWeight": null,
+      "safetyData": []
+    },
+    "location": {
+      "id": 1140,
+      "parentId": 1000,
+      "name": "Beta Receiving",
+      "description": null,
+      "type": "Receiving",
+      "barcode": "1140"
+    },
+    "id": "1240"
+  },
+  {
+    "map": {
+      "containerId": "1234",
+      "barcode": null,
+      "name": "Leanne Graham updated ",
+      "supplier": "Fine Chemicals Corporation (PTY) Ltd.",
+      "currentUser": "INVADMIN",
+      "containerSize.value": 1,
+      "containerSize.unit": "L",
+      "quantityAvailable.value": 1,
+      "quantityAvailable.unit": "L",
+      "dateCreated": "2002-03-11T15:40:58",
+      "containerType": "bag",
+      "status": "Available",
+      "concentration.value": null,
+      "concentration.unit": "mmol",
+      "weight.value": null,
+      "weight.unit": "mg",
+      "density.value": null,
+      "density.unit": "",
+      "purity.value": 98.5,
+      "purity.unit": "%",
+      "compound.compoundId": 11,
+      "compound.molId": 70,
+      "compound.cas": "373-52-4",
+      "compound.acxId": "X1000029-6",
+      "compound.substanceName": "bromofluoromethane",
+      "compound.base64Cdx": "VmpDRDAxMDAEAwIBAAAAAAAAAAAAAAAAAAAAAAMAOQAAAENEWCBkcml2ZXIgMS42\r\nIFtmb3IgQ2hlbURyYXcgNitdIC8gSmFuIDEyIDE5OjAwOjUxIDIwMDIEAhAAAAA8\r\nAAAAPAAVcW8APA1zAAEJCAAAAAAAAAAAAAIJCAAAAKsAAACvAAUIBAAAAB4AAAMy\r\nAAgA////////AAAAAAAA//8AAAAAAAAAAP///////wAAAAD//wAAAAD///////8A\r\nAP//AYACAAAABAIQAAAAPAAAADwAFXFvADwNcwADgAMAAAAEgAQAAAAAAggAAAA8\r\nABMsVgACBAIAIwA5BAMAAAAwBoAFAAAAAAcOAAEAAAADAGAAyAADAEJyAAAAAASA\r\nBgAAAAACCAA6yFkAEyxWADkEAwAAADEAAASABwAAAAACCADYH2kAAAA8AAIEAgAJ\r\nADkEAwAAADIGgAgAAAAABw0AAQAAAAMAYADIAAMARgAAAAAEgAkAAAAAAggAFXFv\r\nAOvtagACBAIAAQA5BAMAAAAzBoAKAAAAAAcNAAEAAAADAGAAyAADAEgAAAAABIAL\r\nAAAAAAIIAIrnYQA8DXMAAgQCAAEAOQQDAAAANAaADAAAAAAHDQABAAAAAwBgAMgA\r\nAwBIAAAAAAWADQAAAAQGBAAEAAAABQYEAAYAAAAAAAWADgAAAAQGBAAGAAAABQYE\r\nAAcAAAAAAAWADwAAAAQGBAAGAAAABQYEAAkAAAAAAAWAEAAAAAQGBAAGAAAABQYE\r\nAAsAAAAAAAAAAAAAAA==\r\n",
+      "compound.molecularWeight": null,
+      "compound.safetyData": [],
+      "location.id": 1032,
+      "location.parentId": 1013,
+      "location.name": "Alpha Receiving",
+      "location.description": null,
+      "location.type": "Receiving",
+      "location.barcode": "1032",
+      "id": "1234",
+      "externalLink": null,
+      "externalUrl": null
+    },
+    "empty": false
+  }
+]
